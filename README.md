@@ -1,6 +1,10 @@
 # mpesa-python
 Script to perform basic mpesa functions <br/>
-You need tho sign up with mpesa daraja to get creadentials <br/>
+including: <br/>
+get access token <br/>
+lipa na mpesa online stk push <br/>
+<br/>
+You need to sign up with mpesa daraja to get credentials <br/>
 https://developer.safaricom.co.ke/
 <br>
 You'll obtain consumer key and consumer secret which will be used in authentication <br/>
